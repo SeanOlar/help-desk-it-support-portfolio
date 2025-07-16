@@ -1,10 +1,10 @@
-# 🖥️ Help Desk / IT Support Portfolio
+# Help Desk / IT Support Portfolio
 
 Welcome! This is a portfolio of basic but essential tasks I’ve learned and documented as part of my journey toward becoming a Help Desk Technician. This repository demonstrates my practical understanding of troubleshooting, scripting, networking, and system administration.
 
 ---
 
-## 🔧 Skills Demonstrated
+## Skills Demonstrated
 
 - Windows command-line troubleshooting
 - PowerShell scripting for system automation
@@ -19,7 +19,7 @@ Welcome! This is a portfolio of basic but essential tasks I’ve learned and doc
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 help-desk-it-support-portfolio/
@@ -45,15 +45,10 @@ help-desk-it-support-portfolio/
 
 ---
 
-## 🧪 How to Use
 
-> Clone the repo and explore each folder. These files simulate basic tasks you might face in a Help Desk role. Some scripts can be run on a Windows machine using PowerShell, while others are for Linux/bash.
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Sean O.**  
-Aspiring IT Support Specialist | CourseCareers Student  
-📧 sean@example.com  
-🌐 [linkedin.com/in/seanexample](https://linkedin.com/in/seanexample)
+IT Support Specialist   
+seanolar@gmail.com  
+https://www.linkedin.com/in/seanolar-design/
