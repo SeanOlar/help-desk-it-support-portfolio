@@ -1,6 +1,6 @@
 # Help Desk / IT Support Portfolio
 
-Welcome! This is a portfolio of basic but essential tasks I’ve learned and documented as part of my journey toward becoming a Help Desk Technician. This repository demonstrates my practical understanding of troubleshooting, scripting, networking, and system administration.
+This is a portfolio of basic but essential tasks I’ve learned and documented as part of my journey toward becoming a Help Desk Technician. This repository demonstrates my practical understanding of troubleshooting, scripting, networking, and system administration.
 
 ---
 
